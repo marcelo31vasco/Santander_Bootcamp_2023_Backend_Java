@@ -18,6 +18,13 @@ public class ReutilizandoVariaveis {
 
         resultado = salario * 0.05;
         System.out.println("5% é "+ resultado);
+
+        double peso = 93.8;
+        System.out.println("O peso de Marcelo eh " + peso);
+
+        boolean compraAprovada = true;
+    System.out.println("a compra foi aprovada? " + compraAprovada);
+
     }
     
 }

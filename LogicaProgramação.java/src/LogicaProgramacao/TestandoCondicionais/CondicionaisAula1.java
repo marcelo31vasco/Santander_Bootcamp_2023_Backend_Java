@@ -1,4 +1,4 @@
-package LogicaProgramacao;
+package LogicaProgramacao.TestandoCondicionais;
 
 public class CondicionaisAula1 {
     public static void main(String[] args) {

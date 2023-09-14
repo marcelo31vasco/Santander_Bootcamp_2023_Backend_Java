@@ -6,7 +6,6 @@ public class CalculadoraImpostosComCondicional {
 
         if(salario > 43000){
             
-
         }
     }
 }
