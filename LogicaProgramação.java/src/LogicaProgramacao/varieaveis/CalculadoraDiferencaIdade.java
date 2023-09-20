@@ -1,4 +1,4 @@
-package LogicaProgramacao;
+package LogicaProgramacao.varieaveis;
 
 public class CalculadoraDiferencaIdade {
     public static void main(String[] args) {
