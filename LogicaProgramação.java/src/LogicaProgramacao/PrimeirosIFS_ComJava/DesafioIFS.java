@@ -12,6 +12,8 @@ O salário a ser transferido é calculado da seguinte maneira:
  Entrada - A entrada consiste em varios arquivos de teste, que conterá o valor bruto do salario e o adicional dos beneficios. Conforme mostrado no exemplo de entrada a seguir.
 
  Saida - Para cada arquivo de entrada tera uma said. E como mencionado no desafio, sera gerado uma linha com um numero que será diferente entre o valor bruto do salario e o percentual de imposto mediante a faixa salarial com o adicional dos beneficios. 
+ TESTE
+ 
  */
 
 
