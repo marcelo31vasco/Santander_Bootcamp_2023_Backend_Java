@@ -1,4 +1,4 @@
-package LogicaProgramacao.varieaveis;
+package LogicaProgramacao.variaveis2;
 
 public class CalculadoraDiferencaIdade {
     public static void main(String[] args) {
@@ -7,7 +7,6 @@ public class CalculadoraDiferencaIdade {
         int segundaIdade = 34;
         int diferencaIdade = primeiraIdade - segundaIdade;
         System.out.println("A diferenca das idades é " + diferencaIdade + " anos");
-
 
         System.out.println();
     }

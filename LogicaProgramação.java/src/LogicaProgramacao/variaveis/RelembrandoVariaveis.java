@@ -1,4 +1,4 @@
-package LogicaProgramacao.varieties;
+package LogicaProgramacao.variaveis;
 
 public class RelembrandoVariaveis {
 

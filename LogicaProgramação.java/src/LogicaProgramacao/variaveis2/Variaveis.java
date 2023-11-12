@@ -1,4 +1,4 @@
-package LogicaProgramacao.varieaveis;
+package LogicaProgramacao.variaveis2;
 
 /* O JAVA existe diversos tipos primitivos de Variaveis , e cada uma aloca um espaço diferente na memoria.
 
@@ -14,10 +14,9 @@ public class Variaveis {
         System.out.println("Estrella tem " + idade + " anos.");
         System.out.println(idade + " anos de idade tem Estrella.");
 
-    // o exemplo acima declara a variavel, em seguida exibe a idade com o nome
-    //para juntar a string com a variavel basta contatenar com um sinal de +
-    
-    
+        // o exemplo acima declara a variavel, em seguida exibe a idade com o nome
+        // para juntar a string com a variavel basta contatenar com um sinal de +
+
     }
-    
+
 }
