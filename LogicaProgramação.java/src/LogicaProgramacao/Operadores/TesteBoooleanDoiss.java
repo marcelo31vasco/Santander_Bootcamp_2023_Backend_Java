@@ -1,4 +1,4 @@
-package LogicaProgramacao;
+package LogicaProgramacao.Operadores;
 
 public class TesteBoooleanDoiss {
 
