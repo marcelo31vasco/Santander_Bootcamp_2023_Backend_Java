@@ -1,0 +1,34 @@
+##Diagrama de CLasse do Iphone
+
+```mermaid
+classDiagram
+    class iPhone {
+        - Modelo: String
+        - AnoLancamento: Inteiro
+        - SistemaOperacional: String
+        - TamanhoTela: Double
+        - Armazenamento: Inteiro
+        - Cor: String
+        - Bateria: Inteiro
+        - CameraFrontal: Boolean
+        - CameraTraseira: Boolean
+        - TouchScreen: Boolean
+        + Ligar(): void
+        + Desligar(): void
+        + FazerChamada(numero: String): void
+        + EnviarMensagem(destinatario: String, mensagem: String): void
+        + TirarFoto(): void
+        + GravarVideo(): void
+        + NavegarInternet(): void
+    }
+
+    class SistemaOperacionaliOS {
+        - Versao: String
+        - Siri: Boolean
+        - AppStore: Boolean
+        + AtualizarVersao(): void
+        + AtivarSiri(): void
+        + AcessarAppStore(): void
+    }
+
+    iPhone -->|tem um| SistemaOperacionaliOS
