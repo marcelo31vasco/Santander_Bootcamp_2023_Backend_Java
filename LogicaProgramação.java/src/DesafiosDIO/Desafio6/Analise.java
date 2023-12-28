@@ -6,8 +6,11 @@ public class Analise {
     Date data;
     String descricao;
 
-    public Analise(Date data, String descricao) {
-        this.data = data;
+    public Analise(java.util.Date date, String descricao) {
+        this.data = date;
         this.descricao = descricao;
+    }
+
+    public Analise(java.util.Date parse, String descricao2) {
     }
 }
